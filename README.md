@@ -7,3 +7,6 @@ From building predictive models to diving into natural language processing. Each
 I'm always eager to learn more and stay on the cutting edge of technology, whether that means exploring new algorithms or diving into the latest research.
 
 On this site, I've collected some of my favourite projects. I hope you'll find them as interesting as I do! If you're a fellow data enthusiast or just curious about what I do, I'd love to hear from you. Let's connect and see what we can build together.
+
+My linkedIn - https://www.linkedin.com/in/jasnav-bajaj-258a80299/
+My gmail - bjasnav@gmail.com
