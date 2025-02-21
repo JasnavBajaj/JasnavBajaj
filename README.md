@@ -12,6 +12,6 @@ On this site, I've collected some of my favourite projects. I hope you'll find t
 
 **My gmail** - bjasnav@gmail.com
 
-**My portfolio website** - 
+**My portfolio website** - https://jasnavbajaj.github.io/my-website/
 
 **Leetcode.com** - https://leetcode.com/u/jasnavbajaj/
